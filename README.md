@@ -1,8 +1,11 @@
-# Awesome Multi-task Learning
+# Few shot learning
 
-Feel free to contact me or contribute if you find any interesting paper is missing!
+## Papers 
 
-&#x1F4E3; &#x1F4E3; &#x1F4E3; We are organizing the [Universal Representations for Computer Vision Workshop](https://sites.google.com/view/universalrepresentations) at BMVC 2022. We invite submissions of regular and short papers. See [Call for Papers](https://sites.google.com/view/universalrepresentations/call-for-papers) for more details!
+Meta-LSTM OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING (ICLR, 2017)
+Siamese Neural Networks for One-shot Image Recognition
+Simple CNAP Improved Few-Shot Visual Classification (CVPR,2020)
+CNAP Fast and Flexible Multi-Task Classification Using Conditional Neural Adaptive Processes (NIPS, 2019)
 
 ## Table of Contents
 - [Survey & Study](#survey--study)
